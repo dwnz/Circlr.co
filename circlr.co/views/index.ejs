@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Circlr.co</title>
+		
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="/css/style.css">
+	</head>
+	<body>
+		<form id="upload" method="post" enctype="multipart/form-data" action="/api/500/Center">
+			<div class="container">
+				<div class="row">
+					<h1>Circlr.co</h1>
+					<h3>Turn things into circles</h3>
+				</div>
+				<div class="row">
+					<div class="col-md-12" style="text-align: center">
+						<div class="circle">
+							<input type="file" name="image" id="fileselect" style="display:none">
+							<div class="camera" id="filedrag">
+								<div>Choose a photo</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<br><br><br>
+				<div class="row">
+					<div class="col-md-12">
+						<p class="text-center">A thing by <a href="http://danielwylie.me">Daniel Wylie</a>. There is also an API coming.</p>
+					</div>
+				</div>
+			</div>
+		</form>
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/js/main.js"></script>
+	</body>
+</html>

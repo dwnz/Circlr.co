@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"res",
+				"resizedBuffer"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"sc",
+				"scollArea"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"magin",
+				"margin-right"
+			],
+			[
+				"lifetime",
+				"lifetimePoints"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"get",
+				"getLeaderboard"
+			],
+			[
+				"con",
+				"Controllers"
+			],
+			[
+				"Time",
+				"TimeOffset"
+			],
+			[
+				"Curre",
+				"CurrentTime"
+			],
+			[
+				"c",
+				"currentTime"
+			],
+			[
+				"Se",
+				"Settings"
+			],
+			[
+				"game",
+				"gameId"
+			],
+			[
+				"questions",
+				"questions"
+			],
+			[
+				"Res",
+				"ResultsService"
+			],
+			[
+				"questio",
+				"questionResults"
+			],
+			[
+				"net",
+				"networkService"
+			],
+			[
+				"questi",
+				"questions"
+			],
+			[
+				"ques",
+				"questions"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"time",
+				"timeLeftInCurrentQuestion"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"Settings",
+				"SettingsService"
+			],
+			[
+				"settin",
+				"settingsModel"
+			],
+			[
+				"start",
+				"startDateTime"
+			],
+			[
+				"ob",
+				"observableArray"
+			],
+			[
+				"question",
+				"questionCount"
+			],
+			[
+				"warm",
+				"warmupState"
+			],
+			[
+				"auth",
+				"authenticationService"
+			],
+			[
+				"Ser",
+				"ServerURL"
+			],
+			[
+				"load",
+				"loadGame"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"background-s",
+				"background-size"
+			],
+			[
+				"text-",
+				"text-indent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"fom",
+				"Format: Javascript"
+			],
+			[
+				"form	",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Save",
+				"File: Save All"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Daniel/Documents/Development/Circlr.co/packages.json",
+		"/Users/Daniel/Documents/Development/Circlr.co/app.js",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.js",
+		"/Users/Daniel/Documents/Development/es/node_modules/stylus/lib/units.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controller.Results.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/index.html",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controller.Home.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controller.About.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.App.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controller.Help.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/css/styles.css",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/index.html",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controller.Statistics.js",
+		"/Users/Daniel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/lib/FTScoller.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/js/QB.Stats.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controller.Leaderboard.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/js/QB.LeaderBoard.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Service.Settings.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Navigator.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/Bootstrap.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controller.Game.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Model.Settings.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Services.Network.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Services.Results.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/js/QB.Game.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/js/QB.Services.Results.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Controllers.Results.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Model.QuestionStatus.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Model.Answer.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Utils.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/js/QB.Answers.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Services.Question.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Model.Question.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Model.Game.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/QB.Services.Authentication.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js/KO.Bindings.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/js/QB.Security.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www_old/js/QB.Register.js",
+		"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/merges/ios/css/overrides.css",
+		"/Users/Daniel/Dropbox/Clients/Elite Glass/HTML/index.html",
+		"/Users/Daniel/Dropbox/Clients/Elite Glass/HTML/whatwedo.html",
+		"/Users/Daniel/Dropbox/Clients/Elite Glass/HTML/contact.html",
+		"/Users/Daniel/Downloads/Trunk-Package/css/trunk.css",
+		"/Users/Daniel/Dropbox/Clients/Elite Glass/HTML/styles.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Daniel/Documents/Development/QuizBlaster/PhoneGap3/QuizBlaster/www/js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"self.Services",
+			"self.serv",
+			"self.Services",
+			".row",
+			"leaderboard",
+			"offset",
+			"Network",
+			"ShowScores",
+			"javascript",
+			"game-te",
+			"startGame",
+			"Config",
+			"currentTime",
+			"timeOffset",
+			"TimeOffset",
+			"text",
+			"container",
+			"\n						<div class=\"form-group\">\n							<label for=\"phoneNumber\">Phone Number</label>\n							<input type=\"email\" class=\"form-control\" name=\"phoneNumber\" placeholder=\"Your phone number\">\n						</div>",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true
+}

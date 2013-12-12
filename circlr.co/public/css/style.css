@@ -1,0 +1,48 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Open Sans', sans-serif;	
+}
+
+div.circle {
+	background: url(/img/bg4.jpg);
+	border: 3px solid #efefef;
+	border-radius: 445px;
+	height: 445px;
+	width: 445px;
+
+	margin: 5% auto 0 auto;
+}
+
+div.camera {
+	background: url(/img/camera.png) no-repeat;
+	width: 250px;
+	height: 170px;
+	margin-top: 127px;
+	margin-left: 128px;
+}
+
+div.camera:hover, div.camera.hover {
+	background-position: 0 -167px;
+	cursor:pointer ;
+}
+
+div.camera:hover div, div.camera.hover div {
+	opacity: 0;
+	transition: all 0.5s;
+}
+
+div.circle input[type="file"]{
+	width: 100%;
+	min-height: 100%;
+	text-indent: -99999px;
+}
+
+div.camera div {
+	position: relative;;
+	top: 180px;
+	left: -27px;
+	transition: all 0.5s;
+}
