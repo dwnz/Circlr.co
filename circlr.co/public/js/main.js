@@ -2,6 +2,15 @@ $(function(){
 		$('#filedrag').click(function(){
 			$('#fileselect').click();
 		});
+		
+		$.get(
+			'/api/count',
+			{},
+			function(data){
+				$('#circlesMade').html(data + ' circles created.');
+			}
+		);
+		
 		// getElementById
 		function $id(id) {
 			return document.getElementById(id);
@@ -25,8 +34,6 @@ $(function(){
 			// fetch FileList object
 			var files = e.target.files || e.dataTransfer.files;
 			// process all File objects
-
-
 			var file = files[0];
 			
 
@@ -40,6 +47,7 @@ $(function(){
 				return;
 			};
 
+			$('#msg').html('Uploading now...');
 			$('#upload').submit();
 		}
 		// output file information

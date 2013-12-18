@@ -3,6 +3,7 @@ var routes = require('./routes');
 var api = require('./routes/api');
 var http = require('http');
 var path = require('path');
+var fs = require('fs');
 
 var app = express();
 
@@ -28,6 +29,8 @@ if ('development' == app.get('env')) {
 }
 
 app.post('/api/:size/:gravity', api.circle);
+app.get('/api/count', api.count);
+app.get('/api/view/:image', api.view);
 app.get('/api', api.index);
 app.get('/', routes.index);
 

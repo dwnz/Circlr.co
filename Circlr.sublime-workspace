@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"fie",
+				"fileCount"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"api"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"hei",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
 				"st",
 				"stdout"
 			],
@@ -156,10 +188,6 @@
 				"addEventListener"
 			],
 			[
-				"margin",
-				"margin-top"
-			],
-			[
 				"fot",
 				"font-size"
 			],
@@ -248,6 +276,19 @@
 	},
 	"file_history":
 	[
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/app.js",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/routes/api.js",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/public/tmp/1386920385571.png",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/views/index.ejs",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/public/js/main.js",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/views/api.ejs",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/package.json",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/public/tmp/1386842766179",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/public/css/style.css",
+		"/Users/Daniel/Documents/Development/es/views/MyProfile.ejs",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/public/stylesheets/style.css",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/css/style.css",
+		"/Users/Daniel/Documents/Development/Circlr.co/circlr.co/img/bg.jpg",
 		"/Users/Daniel/Documents/Development/Circlr.co/packages.json",
 		"/Users/Daniel/Documents/Development/Circlr.co/app.js",
 		"/Users/Daniel/Documents/Development/Circlr.co/circlr.js",
@@ -312,6 +353,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"tmp",
 			"self.Services",
 			"self.serv",
 			"self.Services",
